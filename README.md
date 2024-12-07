@@ -4,7 +4,7 @@ A comprehensive desktop application using **Java Swing**, **MySQL**, **HTML**, a
 
 ---
 
-![Chess Board]([https://example.com/image.png](https://raw.githubusercontent.com/ankitvishwakarma91/Chess-Game/refs/heads/master/res/templates/image.png))
+![Chess Board](https://raw.githubusercontent.com/ankitvishwakarma91/Chess-Game/refs/heads/master/res/image.png)
 
 
 ## Project Overview  
