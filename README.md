@@ -4,6 +4,9 @@ A comprehensive desktop application using **Java Swing**, **MySQL**, **HTML**, a
 
 ---
 
+![Chess Board]([https://example.com/image.png](https://raw.githubusercontent.com/ankitvishwakarma91/Chess-Game/refs/heads/master/res/templates/image.png))
+
+
 ## Project Overview  
 
 This project is a user-friendly desktop application designed to manage user data and facilitate smooth interactions between users and the system. The application combines the power of **Java Swing** for an interactive graphical interface, **MySQL** for robust database management, and **HTML/CSS** for styling and layout.  
