@@ -1,4 +1,4 @@
-# Java Desktop Application  
+# Java Project  
 
 A comprehensive desktop application using **Java Swing**, **MySQL**, **HTML**, and **CSS**.  
 
